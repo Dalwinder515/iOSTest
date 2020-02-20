@@ -1,3 +1,12 @@
+/*
+ iOS Midterm Test
+ File: GameScene.swift
+ 
+ Name: Dalwinder Singh
+ ID: 301089722
+ Date: 19/02/2020
+ */
+
 
 import UIKit
 import AVFoundation
@@ -50,8 +59,8 @@ class GameScene: SKScene {
         self.islandSprite = Island()
         self.addChild(islandSprite!)
         
-        // add clouds
-        for index in 0...1
+        // add clouds - only 1 cloud at a time
+        for index in 0...0
         {
             let cloud: Cloud = Cloud()
             cloudSprites.append(cloud)

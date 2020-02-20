@@ -1,3 +1,12 @@
+/*
+iOS Midterm Test
+File: EndScene.swift
+
+Name: Dalwinder Singh
+ID: 301089722
+Date: 19/02/2020
+*/
+
 
 import UIKit
 import AVFoundation

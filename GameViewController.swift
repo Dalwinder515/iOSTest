@@ -1,10 +1,11 @@
-//
-//  GameViewController.swift
-//  MAPD724-W2020-Lesson2
-//
-//  Created by Tom Tsiliopoulos on 2020-01-15.
-//  Copyright © 2020 CentennialCollege. All rights reserved.
-//
+/*
+iOS Midterm Test
+File: GameViewController.swift
+
+Name: Dalwinder Singh
+ID: 301089722
+Date: 19/02/2020
+*/
 
 import UIKit
 import SpriteKit
