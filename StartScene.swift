@@ -36,11 +36,11 @@ class StartScene: SKScene {
         
         // add ocean
         self.oceanSprite1 = Ocean()
-        self.oceanSprite1?.position = CGPoint(x: 700, y: 0) //1864.67, 0
+        self.oceanSprite1?.position = CGPoint(x: 700, y: 0) 
         self.addChild(oceanSprite1!)
         
         self.oceanSprite2 = Ocean()
-        self.oceanSprite2?.position = CGPoint(x: 0, y: 0) //177
+        self.oceanSprite2?.position = CGPoint(x: 0, y: 0)
         self.addChild(oceanSprite2!)
         
     }

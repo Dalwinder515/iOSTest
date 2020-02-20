@@ -1,3 +1,12 @@
+/*
+iOS Midterm Test
+File: Cloud.swift
+
+Name: Dalwinder Singh
+ID: 301089722
+Date: 19/02/2020
+*/
+
 import SpriteKit
 import GameplayKit
 

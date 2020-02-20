@@ -86,6 +86,7 @@ class GameScene: SKScene {
         
     }
     
+    //Plane should only move in y direction
     func touchDown(atPoint pos : CGPoint)
     {
         self.planeSprite?.TouchMove(newPos: CGPoint(x: -575, y: pos.y))
